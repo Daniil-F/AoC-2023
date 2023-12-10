@@ -32,7 +32,7 @@ fn main() {
         let mut right_bound = (((time as f64) + discr_root) / 2f64).floor() as i64;
 
         let does_win = |windup: &i64| {
-          return windup * (&time - windup) > distance;
+            return windup * (&time - windup) > distance;
         };
 
         let left_bound_clone = left_bound;
@@ -44,22 +44,22 @@ fn main() {
             let initial_behavior = does_win(&value);
             'variate: for step_size in 1i64.. {
                 for multiplier in [-1i64, 1i64] {
-                  let step = step_size * multiplier;
-                  let new_value = *value + step;
+                    let step = step_size * multiplier;
+                    let new_value = *value + step;
 
-                  if new_value == bound && !initial_behavior {
-                    break 'variate;
-                  }
-
-                  if does_win(&new_value) != initial_behavior {
-                    if initial_behavior {
-                      *value = new_value - multiplier;
-                    } else {
-                      *value = new_value;
+                    if new_value == bound && !initial_behavior {
+                        break 'variate;
                     }
 
-                    break 'variate;
-                  }
+                    if does_win(&new_value) != initial_behavior {
+                        if initial_behavior {
+                            *value = new_value - multiplier;
+                        } else {
+                            *value = new_value;
+                        }
+
+                        break 'variate;
+                    }
                 }
             }
         }

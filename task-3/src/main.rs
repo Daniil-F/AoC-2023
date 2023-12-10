@@ -1,4 +1,4 @@
-use std::{io::BufRead, collections::HashMap};
+use std::{collections::HashMap, io::BufRead};
 
 fn main() {
     let input_filename = std::env::args().nth(1).expect("No input filename given!");
@@ -10,13 +10,7 @@ fn main() {
 
     let mut result: u64 = 0;
 
-    let color_limitations = HashMap::from(
-      [
-        ("red", 12),
-        ("green", 13),
-        ("blue", 14),
-      ]
-    );
+    let color_limitations = HashMap::from([("red", 12), ("green", 13), ("blue", 14)]);
 
     loop {
         let mut record = String::new();
@@ -31,23 +25,28 @@ fn main() {
         let game_id_str = record_split.next().unwrap();
         let game_str = record_split.next().unwrap();
 
-        let game_id: u64 = game_id_str.split_whitespace().nth(1).unwrap().parse().unwrap();
+        let game_id: u64 = game_id_str
+            .split_whitespace()
+            .nth(1)
+            .unwrap()
+            .parse()
+            .unwrap();
 
         let mut is_valid = true;
         for round in game_str.split(';') {
-          for color_info in round.split(',') {
-            let mut color_info_split = color_info.split_whitespace();
-            let amount: i32 = color_info_split.next().unwrap().parse().unwrap();
-            let color = color_info_split.next().unwrap();
+            for color_info in round.split(',') {
+                let mut color_info_split = color_info.split_whitespace();
+                let amount: i32 = color_info_split.next().unwrap().parse().unwrap();
+                let color = color_info_split.next().unwrap();
 
-            if !color_limitations.contains_key(color) || color_limitations[color] < amount {
-              is_valid = false;
+                if !color_limitations.contains_key(color) || color_limitations[color] < amount {
+                    is_valid = false;
+                }
             }
-          }
         }
 
         if is_valid {
-          result += game_id;
+            result += game_id;
         }
     }
 

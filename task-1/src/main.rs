@@ -12,13 +12,23 @@ fn main() {
 
     loop {
         let mut record = String::new();
-        let bytes_read = input_buffer.read_line(&mut record).expect("failed to read from file");
+        let bytes_read = input_buffer
+            .read_line(&mut record)
+            .expect("failed to read from file");
         if bytes_read == 0 {
-          break;
+            break;
         }
 
-        let first_digit = record.as_str().chars().find(|&x| x.is_numeric()).expect("No digits in line!");
-        let last_digit = record.as_str().chars().rfind(|&x| x.is_numeric()).expect("No digits in line!");
+        let first_digit = record
+            .as_str()
+            .chars()
+            .find(|&x| x.is_numeric())
+            .expect("No digits in line!");
+        let last_digit = record
+            .as_str()
+            .chars()
+            .rfind(|&x| x.is_numeric())
+            .expect("No digits in line!");
 
         let original_record = first_digit.to_string() + &last_digit.to_string();
         let original_record_number: u64 = original_record.parse().unwrap();

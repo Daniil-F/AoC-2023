@@ -1,4 +1,4 @@
-use std::{collections::{HashSet}, io::BufRead};
+use std::{collections::HashSet, io::BufRead};
 
 fn main() {
     let input_filename = std::env::args().nth(1).expect("No input filename given!");
@@ -23,7 +23,7 @@ fn main() {
         }
 
         if amounts.len() <= idx {
-          amounts.push(0 as i64);
+            amounts.push(0 as i64);
         }
 
         amounts[idx] += 1;
@@ -33,15 +33,30 @@ fn main() {
 
         let mut card_str_parts = record.split(":").nth(1).unwrap().split("|");
 
-        let card_numbers: Vec<i64> = card_str_parts.next().unwrap().trim().split_whitespace().map(|x| x.parse().unwrap()).collect();
-        let winning_numbers: HashSet<i64> = card_str_parts.next().unwrap().trim().split_whitespace().map(|x| x.parse().unwrap()).collect();
+        let card_numbers: Vec<i64> = card_str_parts
+            .next()
+            .unwrap()
+            .trim()
+            .split_whitespace()
+            .map(|x| x.parse().unwrap())
+            .collect();
+        let winning_numbers: HashSet<i64> = card_str_parts
+            .next()
+            .unwrap()
+            .trim()
+            .split_whitespace()
+            .map(|x| x.parse().unwrap())
+            .collect();
 
-        let cards_won = card_numbers.iter().filter(|x| winning_numbers.contains(x)).count();
-        for won_idx in idx+1..idx+cards_won+1 {
-          if amounts.len() <= won_idx {
-            amounts.push(0);
-          }
-          amounts[won_idx] += amount;
+        let cards_won = card_numbers
+            .iter()
+            .filter(|x| winning_numbers.contains(x))
+            .count();
+        for won_idx in idx + 1..idx + cards_won + 1 {
+            if amounts.len() <= won_idx {
+                amounts.push(0);
+            }
+            amounts[won_idx] += amount;
         }
 
         idx += 1;

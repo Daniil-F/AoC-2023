@@ -31,9 +31,10 @@ fn main() {
                 let color = color_info_split.next().unwrap();
 
                 if !color_count.contains_key(color) {
-                  color_count.insert(color, amount);
+                    color_count.insert(color, amount);
                 } else {
-                  *color_count.get_mut(color).unwrap() = std::cmp::max(amount, color_count[color]);
+                    *color_count.get_mut(color).unwrap() =
+                        std::cmp::max(amount, color_count[color]);
                 }
             }
         }
@@ -41,7 +42,7 @@ fn main() {
         let mut power: i64 = 1;
 
         for (_, amount) in color_count.iter() {
-          power *= *amount as i64;
+            power *= *amount as i64;
         }
 
         result += power;

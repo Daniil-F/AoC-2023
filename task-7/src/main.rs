@@ -21,10 +21,27 @@ fn main() {
 
         let mut card_str_parts = record.split(":").nth(1).unwrap().split("|");
 
-        let card_numbers: Vec<i64> = card_str_parts.next().unwrap().trim().split_whitespace().map(|x| x.parse().unwrap()).collect();
-        let winning_numbers: HashSet<i64> = card_str_parts.next().unwrap().trim().split_whitespace().map(|x| x.parse().unwrap()).collect();
+        let card_numbers: Vec<i64> = card_str_parts
+            .next()
+            .unwrap()
+            .trim()
+            .split_whitespace()
+            .map(|x| x.parse().unwrap())
+            .collect();
+        let winning_numbers: HashSet<i64> = card_str_parts
+            .next()
+            .unwrap()
+            .trim()
+            .split_whitespace()
+            .map(|x| x.parse().unwrap())
+            .collect();
 
-        result += (1 as i64) << (card_numbers.iter().filter(|x| winning_numbers.contains(x)).count()) >> 1;
+        result += (1 as i64)
+            << (card_numbers
+                .iter()
+                .filter(|x| winning_numbers.contains(x))
+                .count())
+            >> 1;
     }
 
     println!("result: {}", result);

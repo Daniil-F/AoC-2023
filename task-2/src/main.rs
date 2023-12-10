@@ -76,10 +76,10 @@ fn main() {
         };
 
         let extract_digit = |x: &(usize, char)| {
-          if x.1.is_numeric() {
-            return x.1;
-          }
-          return get_spelled_digit(x.0).unwrap();
+            if x.1.is_numeric() {
+                return x.1;
+            }
+            return get_spelled_digit(x.0).unwrap();
         };
 
         let first_digit = record
@@ -91,7 +91,8 @@ fn main() {
             .rfind(|&x| x.1.is_numeric() || get_spelled_digit(x.0).is_some())
             .expect("No digits in line!");
 
-        let original_record = extract_digit(&first_digit).to_string() + &extract_digit(&last_digit).to_string();
+        let original_record =
+            extract_digit(&first_digit).to_string() + &extract_digit(&last_digit).to_string();
         let original_record_number: u64 = original_record.parse().unwrap();
         result += original_record_number;
     }

@@ -127,7 +127,7 @@ fn main() {
             .filter(|x| x.is_some())
             .map(|x| {
                 let Some((l, len)) = x else {
-                  panic!("Shouldn't be here")
+                    panic!("Shouldn't be here")
                 };
                 return (l, l + len);
             }),
@@ -164,9 +164,12 @@ fn main() {
         }
 
         for (l, r) in new_segments {
-          segments.add_segment(l, r);
+            segments.add_segment(l, r);
         }
     }
 
-    println!("result: {}", segments.segment_ends.first_entry().unwrap().key());
+    println!(
+        "result: {}",
+        segments.segment_ends.first_entry().unwrap().key()
+    );
 }

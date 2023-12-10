@@ -47,19 +47,23 @@ fn main() {
         let mut is_part_number = false;
         let mut part_symbol = ' ';
 
-        let mut do_flush = |current_number: &mut String, is_part_number: &mut bool, part_symbol: &char| {
-            if current_number.is_empty() {
-                return;
-            }
-            if *is_part_number {
-                println!("Got {} as part number with {}", current_number, &part_symbol);
-                result += current_number.parse::<i64>().unwrap();
-            } else {
-                println!("Got {} as not part number", current_number);
-            }
-            current_number.clear();
-            *is_part_number = false;
-        };
+        let mut do_flush =
+            |current_number: &mut String, is_part_number: &mut bool, part_symbol: &char| {
+                if current_number.is_empty() {
+                    return;
+                }
+                if *is_part_number {
+                    println!(
+                        "Got {} as part number with {}",
+                        current_number, &part_symbol
+                    );
+                    result += current_number.parse::<i64>().unwrap();
+                } else {
+                    println!("Got {} as not part number", current_number);
+                }
+                current_number.clear();
+                *is_part_number = false;
+            };
 
         for (y, ch) in row.iter().enumerate() {
             if !ch.is_numeric() {
@@ -81,7 +85,7 @@ fn main() {
                     if !neigbor.is_numeric() && *neigbor != '.' {
                         is_part_number = true;
                         part_symbol = *neigbor;
-                        break
+                        break;
                     }
                 }
             }

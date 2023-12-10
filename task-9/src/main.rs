@@ -46,17 +46,21 @@ fn main() {
             let [to_start, from_start, amount] = record
                 .split_whitespace()
                 .map(|x| x.parse::<i64>().unwrap())
-                .collect::<Vec<i64>>()[..] else {
+                .collect::<Vec<i64>>()[..]
+            else {
                 panic!("Not three numbers in array");
             };
             let from_end = from_start + amount;
             let diff = to_start - from_start;
-            let matching_items: Vec<i64> = items.range(from_start..from_end).map(|x| x.clone()).collect();
-            
+            let matching_items: Vec<i64> = items
+                .range(from_start..from_end)
+                .map(|x| x.clone())
+                .collect();
+
             new_items.extend(matching_items.iter().map(|x| *x + diff));
 
             for item in matching_items {
-              items.remove(&item);
+                items.remove(&item);
             }
         }
 
