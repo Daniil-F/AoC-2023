@@ -1,0 +1,1229 @@
+Got 164 as part number with *
+Got 429 as not part number
+Got 35 as not part number
+Got 221 as part number with /
+Got 34 as not part number
+Got 464 as not part number
+Got 53 as part number with *
+Got 954 as not part number
+Got 763 as part number with *
+Got 114 as part number with *
+Got 764 as part number with &
+Got 223 as not part number
+Got 275 as not part number
+Got 725 as part number with *
+Got 460 as not part number
+Got 176 as not part number
+Got 267 as part number with *
+Got 854 as part number with @
+Got 919 as part number with *
+Got 798 as not part number
+Got 541 as part number with $
+Got 302 as part number with *
+Got 723 as not part number
+Got 196 as part number with *
+Got 275 as part number with +
+Got 2 as part number with +
+Got 388 as not part number
+Got 284 as part number with *
+Got 429 as part number with *
+Got 211 as part number with *
+Got 633 as part number with *
+Got 503 as part number with *
+Got 66 as part number with $
+Got 865 as not part number
+Got 234 as part number with #
+Got 21 as part number with $
+Got 918 as part number with @
+Got 779 as part number with *
+Got 71 as not part number
+Got 40 as not part number
+Got 856 as part number with *
+Got 438 as part number with #
+Got 636 as part number with *
+Got 671 as part number with +
+Got 404 as part number with /
+Got 585 as not part number
+Got 866 as part number with *
+Got 971 as part number with $
+Got 869 as part number with *
+Got 548 as part number with *
+Got 456 as part number with *
+Got 907 as part number with *
+Got 146 as part number with $
+Got 320 as part number with %
+Got 354 as part number with %
+Got 870 as part number with *
+Got 334 as part number with *
+Got 75 as part number with *
+Got 800 as part number with $
+Got 746 as part number with *
+Got 984 as not part number
+Got 174 as part number with *
+Got 417 as part number with *
+Got 701 as part number with *
+Got 497 as part number with *
+Got 397 as part number with =
+Got 620 as part number with *
+Got 671 as part number with *
+Got 852 as part number with &
+Got 656 as part number with +
+Got 616 as part number with *
+Got 503 as part number with &
+Got 160 as part number with *
+Got 613 as part number with *
+Got 559 as part number with *
+Got 100 as part number with *
+Got 408 as part number with *
+Got 574 as part number with *
+Got 737 as part number with *
+Got 333 as part number with *
+Got 502 as part number with %
+Got 937 as part number with =
+Got 395 as part number with $
+Got 21 as part number with #
+Got 58 as part number with *
+Got 55 as part number with *
+Got 569 as part number with *
+Got 397 as part number with *
+Got 948 as part number with *
+Got 6 as part number with &
+Got 172 as part number with *
+Got 131 as part number with *
+Got 760 as part number with *
+Got 502 as part number with *
+Got 169 as part number with *
+Got 40 as part number with *
+Got 592 as part number with *
+Got 552 as part number with *
+Got 660 as part number with *
+Got 997 as part number with #
+Got 625 as part number with *
+Got 17 as part number with *
+Got 225 as part number with /
+Got 855 as part number with *
+Got 795 as part number with =
+Got 713 as part number with &
+Got 496 as part number with @
+Got 420 as part number with %
+Got 432 as part number with @
+Got 615 as part number with *
+Got 305 as part number with *
+Got 863 as part number with &
+Got 94 as part number with *
+Got 382 as part number with $
+Got 94 as part number with *
+Got 791 as part number with *
+Got 609 as part number with %
+Got 733 as part number with *
+Got 234 as part number with *
+Got 921 as part number with /
+Got 678 as part number with *
+Got 454 as part number with %
+Got 287 as part number with *
+Got 618 as part number with *
+Got 548 as part number with *
+Got 485 as part number with *
+Got 703 as part number with -
+Got 332 as part number with *
+Got 259 as part number with *
+Got 192 as part number with +
+Got 504 as not part number
+Got 539 as part number with *
+Got 693 as part number with $
+Got 64 as part number with #
+Got 567 as part number with *
+Got 487 as part number with *
+Got 633 as not part number
+Got 200 as part number with *
+Got 886 as part number with *
+Got 550 as part number with /
+Got 129 as part number with *
+Got 576 as not part number
+Got 533 as not part number
+Got 791 as part number with =
+Got 658 as part number with *
+Got 776 as part number with *
+Got 916 as part number with *
+Got 719 as part number with *
+Got 753 as not part number
+Got 376 as part number with *
+Got 102 as part number with #
+Got 964 as part number with *
+Got 390 as part number with *
+Got 262 as part number with *
+Got 934 as part number with *
+Got 185 as part number with *
+Got 592 as part number with @
+Got 998 as part number with &
+Got 886 as part number with @
+Got 650 as not part number
+Got 930 as part number with *
+Got 764 as not part number
+Got 225 as part number with =
+Got 473 as part number with %
+Got 63 as not part number
+Got 614 as part number with *
+Got 123 as part number with *
+Got 771 as not part number
+Got 615 as not part number
+Got 122 as part number with *
+Got 84 as part number with *
+Got 842 as part number with +
+Got 201 as part number with *
+Got 831 as part number with *
+Got 61 as part number with *
+Got 388 as part number with *
+Got 243 as part number with &
+Got 781 as part number with *
+Got 594 as part number with &
+Got 541 as part number with *
+Got 850 as part number with +
+Got 747 as part number with /
+Got 686 as part number with =
+Got 131 as part number with *
+Got 893 as part number with *
+Got 151 as part number with %
+Got 105 as part number with *
+Got 967 as part number with *
+Got 557 as part number with @
+Got 163 as part number with &
+Got 596 as part number with *
+Got 346 as part number with *
+Got 869 as part number with *
+Got 471 as part number with =
+Got 449 as part number with %
+Got 302 as not part number
+Got 482 as part number with *
+Got 247 as part number with -
+Got 784 as part number with *
+Got 668 as part number with *
+Got 647 as part number with *
+Got 282 as part number with *
+Got 746 as part number with *
+Got 739 as not part number
+Got 931 as part number with *
+Got 56 as part number with $
+Got 687 as part number with *
+Got 439 as part number with @
+Got 337 as part number with *
+Got 108 as part number with *
+Got 94 as part number with %
+Got 952 as part number with *
+Got 37 as part number with =
+Got 903 as part number with *
+Got 8 as part number with -
+Got 826 as part number with *
+Got 259 as not part number
+Got 668 as part number with *
+Got 299 as not part number
+Got 687 as part number with *
+Got 654 as part number with *
+Got 905 as part number with *
+Got 302 as not part number
+Got 239 as part number with *
+Got 299 as part number with *
+Got 566 as part number with @
+Got 60 as part number with *
+Got 789 as part number with *
+Got 899 as part number with -
+Got 674 as not part number
+Got 632 as part number with *
+Got 511 as part number with *
+Got 865 as not part number
+Got 640 as part number with *
+Got 931 as part number with *
+Got 573 as part number with *
+Got 986 as part number with #
+Got 154 as part number with *
+Got 386 as part number with *
+Got 303 as part number with *
+Got 691 as part number with *
+Got 562 as part number with *
+Got 73 as part number with *
+Got 544 as part number with *
+Got 987 as part number with *
+Got 811 as part number with $
+Got 703 as not part number
+Got 750 as not part number
+Got 418 as part number with %
+Got 439 as not part number
+Got 474 as part number with *
+Got 731 as part number with #
+Got 350 as not part number
+Got 127 as part number with *
+Got 318 as part number with *
+Got 554 as part number with *
+Got 181 as part number with %
+Got 828 as part number with *
+Got 446 as part number with *
+Got 864 as not part number
+Got 657 as part number with *
+Got 193 as part number with *
+Got 194 as part number with %
+Got 387 as part number with *
+Got 59 as part number with =
+Got 882 as part number with *
+Got 278 as part number with *
+Got 586 as part number with *
+Got 138 as part number with #
+Got 595 as part number with *
+Got 276 as part number with *
+Got 596 as part number with *
+Got 308 as part number with *
+Got 465 as part number with *
+Got 899 as part number with @
+Got 454 as part number with %
+Got 351 as part number with *
+Got 235 as part number with *
+Got 229 as not part number
+Got 929 as part number with @
+Got 228 as part number with $
+Got 960 as part number with +
+Got 632 as part number with +
+Got 148 as not part number
+Got 763 as part number with *
+Got 652 as part number with *
+Got 203 as part number with &
+Got 774 as part number with *
+Got 36 as part number with *
+Got 91 as part number with =
+Got 919 as part number with *
+Got 917 as part number with *
+Got 529 as part number with *
+Got 964 as not part number
+Got 55 as part number with *
+Got 727 as part number with *
+Got 742 as part number with *
+Got 877 as not part number
+Got 830 as part number with +
+Got 570 as part number with *
+Got 819 as part number with +
+Got 468 as part number with %
+Got 794 as part number with *
+Got 430 as part number with &
+Got 590 as part number with *
+Got 212 as part number with *
+Got 278 as part number with $
+Got 714 as part number with *
+Got 894 as part number with *
+Got 540 as part number with *
+Got 803 as part number with *
+Got 413 as part number with *
+Got 886 as part number with *
+Got 478 as part number with *
+Got 255 as part number with *
+Got 39 as part number with *
+Got 328 as part number with *
+Got 205 as part number with &
+Got 635 as part number with *
+Got 398 as part number with *
+Got 119 as part number with =
+Got 449 as part number with *
+Got 533 as part number with *
+Got 479 as part number with /
+Got 837 as part number with -
+Got 619 as not part number
+Got 459 as part number with /
+Got 923 as part number with *
+Got 51 as part number with *
+Got 830 as part number with *
+Got 231 as part number with *
+Got 452 as part number with *
+Got 465 as part number with *
+Got 788 as part number with *
+Got 762 as part number with *
+Got 648 as part number with *
+Got 671 as part number with *
+Got 399 as part number with %
+Got 137 as part number with *
+Got 172 as part number with *
+Got 457 as part number with *
+Got 323 as part number with *
+Got 367 as part number with /
+Got 407 as not part number
+Got 731 as part number with @
+Got 981 as part number with *
+Got 658 as part number with /
+Got 277 as part number with *
+Got 321 as part number with @
+Got 10 as part number with =
+Got 753 as part number with *
+Got 275 as part number with *
+Got 150 as part number with *
+Got 815 as part number with *
+Got 555 as part number with *
+Got 371 as part number with *
+Got 16 as not part number
+Got 950 as part number with /
+Got 531 as part number with *
+Got 810 as part number with *
+Got 155 as part number with *
+Got 747 as part number with *
+Got 635 as part number with *
+Got 407 as part number with /
+Got 909 as part number with *
+Got 189 as part number with *
+Got 915 as part number with *
+Got 980 as part number with *
+Got 591 as part number with $
+Got 489 as part number with *
+Got 353 as part number with +
+Got 273 as part number with +
+Got 865 as not part number
+Got 34 as part number with /
+Got 790 as not part number
+Got 866 as part number with *
+Got 38 as part number with *
+Got 377 as part number with *
+Got 719 as part number with *
+Got 42 as part number with *
+Got 708 as part number with *
+Got 104 as part number with *
+Got 90 as not part number
+Got 172 as not part number
+Got 540 as part number with *
+Got 361 as part number with *
+Got 504 as part number with *
+Got 895 as part number with *
+Got 874 as part number with *
+Got 473 as part number with =
+Got 19 as part number with %
+Got 283 as not part number
+Got 310 as part number with -
+Got 7 as part number with *
+Got 947 as part number with *
+Got 563 as part number with *
+Got 406 as part number with *
+Got 102 as part number with *
+Got 113 as part number with *
+Got 805 as part number with /
+Got 704 as part number with *
+Got 702 as part number with *
+Got 795 as part number with %
+Got 755 as part number with *
+Got 592 as not part number
+Got 640 as part number with *
+Got 911 as part number with *
+Got 208 as part number with &
+Got 813 as part number with =
+Got 131 as part number with *
+Got 120 as part number with *
+Got 103 as part number with #
+Got 994 as part number with *
+Got 229 as part number with *
+Got 598 as part number with *
+Got 979 as part number with *
+Got 729 as part number with #
+Got 182 as part number with *
+Got 729 as part number with *
+Got 410 as part number with *
+Got 772 as part number with *
+Got 177 as part number with *
+Got 900 as part number with &
+Got 952 as part number with *
+Got 898 as part number with *
+Got 203 as part number with /
+Got 268 as part number with *
+Got 187 as part number with #
+Got 725 as part number with *
+Got 681 as part number with *
+Got 410 as part number with *
+Got 97 as not part number
+Got 430 as part number with =
+Got 951 as part number with *
+Got 691 as part number with *
+Got 769 as part number with *
+Got 942 as part number with $
+Got 660 as part number with *
+Got 841 as part number with @
+Got 169 as not part number
+Got 666 as not part number
+Got 705 as not part number
+Got 696 as part number with /
+Got 708 as part number with *
+Got 599 as part number with -
+Got 306 as part number with @
+Got 798 as part number with *
+Got 622 as part number with *
+Got 960 as part number with *
+Got 473 as part number with *
+Got 158 as part number with +
+Got 337 as part number with *
+Got 505 as not part number
+Got 664 as not part number
+Got 845 as part number with *
+Got 831 as not part number
+Got 802 as part number with *
+Got 563 as part number with %
+Got 1 as part number with *
+Got 807 as part number with *
+Got 264 as part number with *
+Got 117 as part number with *
+Got 58 as part number with =
+Got 615 as part number with *
+Got 29 as part number with *
+Got 937 as not part number
+Got 431 as part number with @
+Got 909 as part number with *
+Got 718 as part number with -
+Got 921 as part number with *
+Got 341 as part number with *
+Got 263 as part number with -
+Got 685 as part number with *
+Got 947 as part number with *
+Got 536 as part number with /
+Got 106 as part number with *
+Got 695 as part number with *
+Got 774 as part number with *
+Got 42 as not part number
+Got 722 as part number with &
+Got 636 as part number with *
+Got 264 as not part number
+Got 201 as part number with %
+Got 265 as part number with =
+Got 657 as part number with *
+Got 267 as part number with +
+Got 502 as part number with *
+Got 282 as part number with +
+Got 228 as part number with *
+Got 737 as part number with *
+Got 545 as part number with #
+Got 810 as part number with $
+Got 868 as part number with @
+Got 217 as part number with @
+Got 479 as part number with *
+Got 725 as part number with *
+Got 802 as part number with *
+Got 409 as not part number
+Got 29 as part number with *
+Got 74 as part number with *
+Got 341 as part number with *
+Got 405 as part number with -
+Got 512 as part number with /
+Got 677 as part number with *
+Got 859 as part number with *
+Got 247 as part number with *
+Got 325 as part number with *
+Got 475 as part number with =
+Got 244 as part number with *
+Got 175 as part number with *
+Got 300 as part number with *
+Got 446 as part number with *
+Got 909 as part number with *
+Got 69 as part number with *
+Got 836 as part number with *
+Got 580 as part number with &
+Got 632 as part number with *
+Got 856 as part number with *
+Got 275 as part number with &
+Got 789 as part number with *
+Got 475 as part number with *
+Got 426 as part number with *
+Got 619 as not part number
+Got 706 as part number with *
+Got 318 as part number with *
+Got 807 as part number with *
+Got 2 as part number with /
+Got 633 as part number with $
+Got 301 as part number with /
+Got 188 as part number with *
+Got 886 as part number with %
+Got 181 as part number with *
+Got 42 as part number with *
+Got 236 as part number with *
+Got 260 as part number with *
+Got 833 as part number with *
+Got 931 as part number with *
+Got 430 as part number with &
+Got 24 as not part number
+Got 69 as part number with %
+Got 345 as part number with *
+Got 103 as part number with *
+Got 933 as part number with *
+Got 769 as part number with *
+Got 171 as part number with *
+Got 438 as part number with *
+Got 91 as part number with $
+Got 202 as part number with /
+Got 423 as not part number
+Got 264 as part number with *
+Got 939 as part number with *
+Got 541 as part number with *
+Got 253 as part number with *
+Got 516 as not part number
+Got 636 as not part number
+Got 349 as not part number
+Got 881 as part number with *
+Got 476 as part number with *
+Got 41 as part number with &
+Got 568 as part number with +
+Got 301 as part number with *
+Got 610 as part number with $
+Got 667 as part number with *
+Got 531 as part number with *
+Got 409 as part number with *
+Got 734 as part number with #
+Got 62 as part number with @
+Got 545 as part number with $
+Got 213 as part number with $
+Got 960 as part number with +
+Got 979 as not part number
+Got 191 as part number with @
+Got 573 as part number with *
+Got 606 as part number with *
+Got 673 as part number with #
+Got 363 as part number with *
+Got 220 as part number with *
+Got 858 as part number with &
+Got 95 as part number with *
+Got 750 as part number with *
+Got 534 as part number with *
+Got 468 as part number with *
+Got 925 as part number with %
+Got 422 as part number with *
+Got 579 as part number with *
+Got 764 as part number with *
+Got 155 as part number with *
+Got 874 as part number with *
+Got 28 as part number with =
+Got 916 as part number with @
+Got 380 as part number with =
+Got 210 as part number with &
+Got 303 as part number with %
+Got 221 as part number with *
+Got 877 as part number with *
+Got 879 as part number with *
+Got 867 as part number with #
+Got 73 as part number with -
+Got 617 as part number with @
+Got 283 as part number with *
+Got 208 as part number with *
+Got 147 as part number with *
+Got 657 as part number with @
+Got 656 as part number with /
+Got 195 as part number with *
+Got 690 as part number with *
+Got 823 as not part number
+Got 803 as part number with -
+Got 770 as not part number
+Got 319 as part number with *
+Got 151 as part number with *
+Got 119 as part number with +
+Got 701 as part number with *
+Got 767 as part number with *
+Got 578 as part number with *
+Got 741 as part number with *
+Got 29 as part number with *
+Got 142 as part number with *
+Got 623 as part number with *
+Got 718 as part number with -
+Got 239 as part number with *
+Got 935 as part number with &
+Got 123 as part number with +
+Got 839 as part number with *
+Got 422 as part number with +
+Got 476 as part number with *
+Got 671 as not part number
+Got 747 as part number with *
+Got 159 as part number with *
+Got 115 as part number with *
+Got 32 as part number with *
+Got 556 as part number with *
+Got 164 as part number with @
+Got 740 as part number with *
+Got 662 as part number with *
+Got 550 as part number with &
+Got 718 as part number with *
+Got 775 as part number with -
+Got 899 as part number with @
+Got 978 as not part number
+Got 938 as part number with @
+Got 726 as not part number
+Got 462 as part number with *
+Got 796 as part number with *
+Got 243 as part number with &
+Got 353 as part number with =
+Got 340 as part number with +
+Got 70 as part number with *
+Got 128 as part number with *
+Got 559 as part number with *
+Got 323 as part number with *
+Got 622 as not part number
+Got 924 as part number with *
+Got 85 as part number with *
+Got 383 as part number with *
+Got 269 as part number with *
+Got 752 as part number with *
+Got 315 as part number with +
+Got 345 as not part number
+Got 444 as part number with *
+Got 318 as part number with *
+Got 179 as part number with %
+Got 420 as part number with *
+Got 158 as part number with *
+Got 67 as not part number
+Got 278 as not part number
+Got 772 as part number with *
+Got 470 as part number with &
+Got 354 as part number with -
+Got 346 as part number with *
+Got 576 as not part number
+Got 352 as part number with *
+Got 766 as part number with *
+Got 553 as part number with *
+Got 535 as part number with /
+Got 173 as part number with #
+Got 335 as not part number
+Got 676 as part number with &
+Got 431 as part number with *
+Got 382 as part number with *
+Got 711 as part number with *
+Got 221 as part number with *
+Got 944 as part number with =
+Got 474 as part number with *
+Got 387 as part number with *
+Got 380 as not part number
+Got 289 as part number with *
+Got 988 as part number with *
+Got 204 as part number with *
+Got 869 as part number with *
+Got 391 as part number with *
+Got 938 as part number with #
+Got 790 as part number with *
+Got 296 as part number with *
+Got 219 as part number with *
+Got 564 as part number with *
+Got 101 as part number with -
+Got 41 as part number with *
+Got 440 as part number with #
+Got 851 as part number with +
+Got 47 as not part number
+Got 87 as part number with /
+Got 534 as not part number
+Got 853 as part number with =
+Got 150 as part number with *
+Got 511 as not part number
+Got 347 as part number with *
+Got 529 as not part number
+Got 773 as part number with *
+Got 181 as part number with *
+Got 417 as part number with *
+Got 234 as part number with *
+Got 957 as part number with *
+Got 419 as part number with *
+Got 39 as part number with $
+Got 279 as part number with -
+Got 249 as part number with #
+Got 158 as part number with *
+Got 96 as part number with &
+Got 711 as part number with +
+Got 919 as part number with =
+Got 31 as part number with *
+Got 135 as part number with *
+Got 528 as part number with *
+Got 378 as part number with *
+Got 668 as part number with *
+Got 939 as not part number
+Got 303 as part number with *
+Got 9 as part number with *
+Got 447 as part number with *
+Got 201 as part number with *
+Got 799 as part number with *
+Got 505 as part number with *
+Got 654 as part number with *
+Got 257 as part number with *
+Got 851 as part number with *
+Got 942 as part number with @
+Got 662 as part number with *
+Got 335 as part number with *
+Got 939 as part number with *
+Got 764 as part number with &
+Got 830 as part number with *
+Got 825 as part number with /
+Got 779 as part number with *
+Got 680 as part number with *
+Got 948 as part number with *
+Got 565 as part number with *
+Got 8 as part number with %
+Got 470 as part number with *
+Got 691 as part number with *
+Got 68 as part number with *
+Got 8 as part number with *
+Got 807 as part number with *
+Got 786 as part number with *
+Got 671 as part number with *
+Got 297 as part number with *
+Got 688 as part number with *
+Got 760 as part number with &
+Got 532 as part number with %
+Got 416 as part number with %
+Got 36 as not part number
+Got 939 as part number with =
+Got 280 as part number with *
+Got 535 as part number with *
+Got 801 as not part number
+Got 710 as part number with *
+Got 284 as part number with *
+Got 254 as part number with *
+Got 105 as part number with *
+Got 703 as part number with *
+Got 506 as part number with *
+Got 733 as part number with *
+Got 975 as part number with *
+Got 200 as part number with *
+Got 218 as part number with *
+Got 34 as part number with /
+Got 867 as part number with /
+Got 309 as part number with *
+Got 900 as part number with *
+Got 918 as part number with *
+Got 749 as part number with *
+Got 980 as part number with *
+Got 43 as part number with *
+Got 533 as part number with /
+Got 279 as part number with *
+Got 162 as part number with *
+Got 137 as part number with *
+Got 944 as part number with *
+Got 1 as part number with *
+Got 693 as part number with /
+Got 207 as part number with #
+Got 964 as part number with *
+Got 812 as part number with *
+Got 452 as part number with *
+Got 12 as part number with *
+Got 174 as part number with *
+Got 931 as part number with *
+Got 927 as part number with @
+Got 559 as part number with &
+Got 389 as part number with *
+Got 311 as part number with $
+Got 37 as part number with *
+Got 542 as part number with *
+Got 759 as part number with *
+Got 636 as part number with @
+Got 906 as part number with @
+Got 243 as part number with *
+Got 709 as part number with @
+Got 236 as part number with %
+Got 465 as part number with *
+Got 739 as part number with %
+Got 762 as part number with *
+Got 438 as part number with *
+Got 892 as part number with *
+Got 577 as part number with +
+Got 420 as part number with *
+Got 319 as not part number
+Got 898 as part number with *
+Got 424 as part number with *
+Got 897 as part number with *
+Got 338 as part number with *
+Got 9 as part number with *
+Got 297 as part number with *
+Got 926 as part number with +
+Got 713 as part number with *
+Got 703 as part number with @
+Got 324 as part number with /
+Got 718 as part number with *
+Got 846 as part number with *
+Got 974 as not part number
+Got 390 as part number with *
+Got 252 as part number with =
+Got 529 as part number with *
+Got 65 as part number with *
+Got 643 as not part number
+Got 317 as part number with *
+Got 530 as part number with *
+Got 927 as part number with *
+Got 224 as part number with /
+Got 544 as part number with *
+Got 7 as part number with *
+Got 15 as not part number
+Got 356 as part number with *
+Got 648 as part number with *
+Got 149 as part number with *
+Got 578 as not part number
+Got 114 as part number with #
+Got 972 as part number with *
+Got 452 as part number with *
+Got 626 as not part number
+Got 170 as part number with *
+Got 635 as part number with *
+Got 355 as part number with #
+Got 997 as part number with *
+Got 662 as part number with /
+Got 89 as part number with *
+Got 824 as part number with *
+Got 734 as part number with *
+Got 855 as part number with =
+Got 57 as part number with *
+Got 876 as part number with *
+Got 813 as part number with *
+Got 911 as part number with *
+Got 614 as part number with *
+Got 382 as part number with *
+Got 37 as part number with *
+Got 868 as part number with *
+Got 605 as part number with *
+Got 95 as not part number
+Got 37 as not part number
+Got 10 as not part number
+Got 99 as part number with *
+Got 516 as part number with *
+Got 972 as part number with -
+Got 27 as part number with %
+Got 457 as part number with *
+Got 987 as not part number
+Got 751 as part number with *
+Got 619 as part number with #
+Got 785 as part number with *
+Got 5 as part number with &
+Got 682 as part number with $
+Got 892 as part number with *
+Got 845 as part number with *
+Got 177 as part number with *
+Got 899 as part number with *
+Got 163 as part number with *
+Got 44 as part number with *
+Got 225 as part number with /
+Got 991 as part number with @
+Got 995 as not part number
+Got 106 as part number with *
+Got 430 as part number with *
+Got 197 as part number with +
+Got 228 as part number with *
+Got 87 as part number with *
+Got 481 as not part number
+Got 682 as part number with *
+Got 957 as part number with =
+Got 234 as part number with /
+Got 95 as not part number
+Got 788 as part number with *
+Got 497 as part number with *
+Got 490 as part number with *
+Got 976 as part number with *
+Got 491 as part number with *
+Got 169 as part number with *
+Got 417 as not part number
+Got 471 as part number with *
+Got 378 as part number with /
+Got 178 as part number with *
+Got 806 as part number with *
+Got 886 as part number with *
+Got 891 as part number with *
+Got 225 as not part number
+Got 231 as part number with *
+Got 804 as part number with *
+Got 238 as part number with *
+Got 380 as part number with -
+Got 796 as part number with *
+Got 228 as part number with *
+Got 608 as part number with *
+Got 885 as part number with $
+Got 381 as part number with *
+Got 243 as part number with *
+Got 490 as part number with *
+Got 54 as not part number
+Got 294 as part number with @
+Got 19 as part number with &
+Got 864 as part number with @
+Got 27 as not part number
+Got 849 as part number with +
+Got 927 as part number with *
+Got 261 as part number with #
+Got 432 as part number with *
+Got 814 as part number with *
+Got 638 as part number with *
+Got 400 as part number with @
+Got 727 as part number with *
+Got 165 as part number with =
+Got 202 as part number with *
+Got 565 as part number with *
+Got 666 as not part number
+Got 455 as not part number
+Got 764 as part number with #
+Got 636 as part number with @
+Got 819 as part number with *
+Got 412 as part number with *
+Got 775 as part number with %
+Got 632 as part number with &
+Got 156 as part number with @
+Got 717 as part number with -
+Got 33 as part number with &
+Got 724 as part number with *
+Got 774 as part number with $
+Got 559 as part number with *
+Got 787 as part number with *
+Got 611 as part number with *
+Got 111 as part number with *
+Got 746 as part number with *
+Got 962 as part number with *
+Got 690 as part number with *
+Got 178 as not part number
+Got 544 as not part number
+Got 45 as part number with *
+Got 377 as part number with $
+Got 986 as part number with *
+Got 317 as part number with -
+Got 64 as part number with -
+Got 800 as part number with @
+Got 150 as part number with =
+Got 257 as part number with *
+Got 410 as part number with *
+Got 635 as part number with *
+Got 446 as part number with *
+Got 353 as part number with *
+Got 774 as part number with *
+Got 820 as part number with *
+Got 773 as part number with *
+Got 397 as part number with *
+Got 364 as part number with *
+Got 775 as part number with *
+Got 955 as part number with @
+Got 34 as part number with *
+Got 711 as part number with *
+Got 814 as part number with &
+Got 912 as part number with *
+Got 924 as not part number
+Got 11 as part number with *
+Got 735 as part number with *
+Got 880 as part number with &
+Got 935 as part number with *
+Got 694 as part number with *
+Got 627 as part number with *
+Got 587 as not part number
+Got 778 as part number with *
+Got 969 as part number with &
+Got 867 as part number with =
+Got 336 as part number with *
+Got 887 as part number with *
+Got 640 as not part number
+Got 889 as part number with $
+Got 63 as part number with -
+Got 349 as part number with %
+Got 266 as part number with =
+Got 953 as part number with *
+Got 416 as part number with *
+Got 945 as part number with #
+Got 11 as part number with -
+Got 415 as part number with *
+Got 80 as part number with &
+Got 644 as part number with *
+Got 832 as part number with *
+Got 368 as part number with =
+Got 44 as part number with *
+Got 689 as part number with @
+Got 967 as part number with *
+Got 220 as part number with *
+Got 499 as part number with *
+Got 241 as part number with *
+Got 712 as part number with /
+Got 25 as part number with +
+Got 781 as part number with *
+Got 935 as part number with *
+Got 64 as part number with *
+Got 25 as part number with *
+Got 33 as part number with #
+Got 568 as part number with *
+Got 347 as part number with *
+Got 465 as part number with *
+Got 851 as part number with *
+Got 530 as part number with *
+Got 299 as part number with *
+Got 597 as part number with *
+Got 755 as part number with *
+Got 294 as part number with *
+Got 385 as part number with *
+Got 223 as part number with *
+Got 57 as part number with -
+Got 849 as part number with %
+Got 847 as part number with *
+Got 270 as part number with *
+Got 531 as part number with *
+Got 474 as part number with *
+Got 42 as not part number
+Got 890 as part number with /
+Got 499 as part number with *
+Got 585 as part number with *
+Got 690 as part number with *
+Got 839 as part number with %
+Got 579 as part number with *
+Got 562 as part number with *
+Got 968 as part number with *
+Got 764 as part number with *
+Got 59 as part number with /
+Got 902 as part number with +
+Got 91 as part number with &
+Got 992 as not part number
+Got 638 as part number with *
+Got 210 as part number with *
+Got 320 as part number with *
+Got 911 as part number with *
+Got 466 as part number with +
+Got 213 as part number with @
+Got 364 as part number with *
+Got 395 as part number with $
+Got 117 as part number with +
+Got 901 as part number with *
+Got 946 as part number with *
+Got 521 as part number with *
+Got 185 as not part number
+Got 792 as part number with #
+Got 432 as part number with $
+Got 193 as not part number
+Got 27 as part number with *
+Got 668 as not part number
+Got 419 as part number with *
+Got 489 as part number with #
+Got 428 as part number with *
+Got 176 as part number with -
+Got 648 as part number with *
+Got 6 as part number with @
+Got 1 as not part number
+Got 42 as not part number
+Got 681 as part number with *
+Got 684 as part number with *
+Got 564 as part number with -
+Got 911 as part number with *
+Got 751 as not part number
+Got 76 as part number with =
+Got 203 as part number with *
+Got 776 as part number with -
+Got 588 as part number with $
+Got 760 as part number with *
+Got 615 as part number with &
+Got 822 as part number with *
+Got 421 as part number with %
+Got 246 as part number with /
+Got 586 as part number with *
+Got 279 as part number with *
+Got 426 as part number with *
+Got 106 as part number with *
+Got 773 as part number with @
+Got 147 as part number with *
+Got 744 as part number with *
+Got 324 as part number with *
+Got 490 as part number with *
+Got 201 as part number with *
+Got 868 as part number with @
+Got 976 as part number with *
+Got 582 as not part number
+Got 122 as part number with &
+Got 365 as not part number
+Got 511 as part number with *
+Got 35 as part number with /
+Got 887 as not part number
+Got 115 as part number with *
+Got 149 as part number with *
+Got 580 as part number with *
+Got 948 as part number with *
+Got 651 as part number with /
+Got 411 as part number with *
+Got 38 as part number with *
+Got 26 as part number with +
+Got 882 as part number with *
+Got 894 as part number with #
+Got 381 as part number with *
+Got 98 as part number with *
+Got 2 as part number with *
+Got 245 as part number with #
+Got 789 as not part number
+Got 49 as part number with *
+Got 289 as part number with *
+Got 976 as part number with *
+Got 207 as part number with *
+Got 507 as part number with *
+Got 135 as part number with *
+Got 469 as part number with /
+Got 798 as part number with +
+Got 944 as part number with /
+Got 237 as part number with *
+Got 701 as not part number
+Got 759 as part number with #
+Got 99 as part number with *
+Got 622 as part number with $
+Got 430 as part number with *
+Got 126 as part number with *
+Got 275 as part number with *
+Got 384 as part number with *
+Got 94 as part number with *
+Got 254 as part number with *
+Got 367 as not part number
+Got 274 as part number with *
+Got 179 as part number with *
+Got 77 as part number with *
+Got 15 as not part number
+Got 258 as part number with *
+Got 179 as part number with *
+Got 498 as part number with *
+Got 657 as part number with /
+Got 196 as part number with *
+Got 45 as part number with #
+Got 339 as part number with *
+Got 195 as part number with *
+Got 891 as not part number
+Got 332 as part number with *
+Got 667 as part number with *
+Got 194 as part number with *
+Got 201 as part number with *
+Got 670 as part number with /
+Got 445 as not part number
+Got 334 as part number with *
+Got 908 as part number with *
+Got 5 as part number with *
+Got 566 as part number with -
+Got 433 as part number with *
+Got 149 as part number with #
+Got 331 as part number with *
+Got 998 as part number with *
+Got 171 as part number with @
+Got 90 as part number with +
+Got 28 as not part number
+Got 704 as part number with *
+Got 959 as part number with *
+Got 504 as part number with *
+Got 684 as part number with *
+Got 705 as part number with *
+Got 476 as part number with /
+Got 4 as part number with #
+Got 939 as part number with #
+Got 252 as part number with $
+Got 26 as part number with &
+Got 519 as part number with @
+Got 994 as part number with @
+Got 855 as part number with -
+Got 572 as part number with *
+Got 699 as part number with *
+Got 942 as part number with *
+Got 997 as part number with &
+Got 562 as part number with *
+Got 67 as not part number
+Got 991 as part number with *
+Got 764 as part number with *
+Got 692 as part number with $
+Got 368 as part number with +
+Got 151 as part number with *
+Got 847 as part number with *
+Got 959 as part number with *
+Got 9 as part number with *
+Got 782 as part number with #
+Got 892 as part number with *
+Got 188 as part number with &
+Got 399 as part number with *
+Got 739 as part number with *
+Got 208 as not part number
+Got 928 as not part number
+Got 729 as not part number
+Got 721 as part number with *
+Got 577 as part number with *
+Got 144 as part number with *
+Got 906 as part number with *
+Got 864 as part number with *
+Got 416 as part number with *
+Got 45 as not part number
+Got 73 as not part number
+Got 388 as part number with *
+Got 689 as part number with -
+Got 11 as not part number
+result: 546563
